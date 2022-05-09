@@ -1,6 +1,6 @@
 ## Hi, I'm Éric Pinto ✌️👋
 
-#### I have been working as a software developer for 2 years. Specifically, I am a backend developer using the Java programming language. I'm also very interested in mobile development, having already developed an application using the react native library. 🚀
+I have been working as a software developer for 2 years. Specifically, I am a backend developer using the Java programming language. I'm also very interested in mobile development, having already developed an application using the react native library. 🚀
 
 [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ericgrandopinto/)
 
