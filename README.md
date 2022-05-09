@@ -1,5 +1,9 @@
 ## Hi, I'm Éric Pinto ✌️👋
 
+Software Developer for 2 years 🚀
+
+Seeking constant learning in problem solving and sharing experience with other professionals.
+
 [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ericgrandopinto/)
 
 ![Eric's GitHub stats](https://github-readme-stats.vercel.app/api?username=ericgpinto&show_icons=true&theme=dark)
