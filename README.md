@@ -1,6 +1,18 @@
 ## Hi, I'm Éric Pinto ✌️👋
 
-I have been working as a software developer for 3 years. Specifically, I am a backend developer using the Java programming language. I'm also very interested in frontend development, having already developed some application with React JS library. 🚀
+Backend developer with +3 years of experience in Java (6, 7, 8, 17), Spring Boot, microservices, event-based architecture (Kafka, RabbitMQ) and Docker. I have a strong background in the development of REST APIs, SQL/NoSQL databases (PostgreSQL, MongoDB, Oracle) and asynchronous integrations.
+
+Main skills:
+- Java | Spring Boot | Spring Cloud | Microservices | Event-based architecture | Unit testing 
+- JavaScript | React JS | Hooks | Context API | Typescript
+- Kafka | RabbitMQ | REST APIs | OpenFeign | GraphQL
+- Database: PostgreSQL | Oracle | SQL Server | MongoDB
+- Cloud: Azure | Docker
+- Agile methodologies: Scrum | Kanban
+
+Always seeking innovation and improvement, I am currently specializing in the Full Cycle course.
+
+Check out my GitHub: https://github.com/ericgpinto
 
 [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ericgrandopinto/)
 
