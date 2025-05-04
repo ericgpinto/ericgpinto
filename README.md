@@ -12,8 +12,6 @@ Main skills:
 
 Always seeking innovation and improvement, I am currently specializing in the Full Cycle course.
 
-Check out my GitHub: https://github.com/ericgpinto
-
 [![Linkedln](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ericgrandopinto/)
 
 ![Eric's GitHub stats](https://github-readme-stats.vercel.app/api?username=ericgpinto&show_icons=true&theme=dracula)
